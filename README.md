@@ -45,13 +45,8 @@ Utilizar o operador $mod
   <li> Git Clone no Projeto</li>
   <li> Npm Install</li>
   <li> Inicie o MongoDB</li>
-  <li> Npm start</li>
+ <li> Rode os Comandos </li>
  </ul>
-
-<h2>Membros do Projeto</h2>
-<ul>
-  <li>Ruan Miguel => https://github.com/ruanmiguelgit</li>
-</ul>
 
 
 
